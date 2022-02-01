@@ -1,4 +1,7 @@
 # MLFromScratch
+
+# 9 Best Machine Learning Models
+
 1. Linear Regression: Linear regression is one of the first machine learning models that you should learn about. It’s a simple way to measure how variables are related, which makes it pretty easy to understand. If you want to predict house prices based on square footage or number of bedrooms — this would be one way to do so! After training, linear regression produces an equation for the line that best fits the data.
 2. Logistic Regression: Logistic regression is another model that you should learn early on. Logistic regression is used when the dependent variable is categorical (i.e., has only a limited number of possible values). It can be used to predict whether something will happen (e.g., whether or not someone will buy a product) or to identify which factors are most important in determining the outcome of interest.
 3. Naive Bayes: The Naive Bayes algorithm is a simple classification algorithm that is often used for text categorization. It is based on the Bayes theorem and can be used for both classification and regression tasks. The way they work is by using statistical methods to predict whether a new example belongs to one category or another, based on the features it has been assigned.
