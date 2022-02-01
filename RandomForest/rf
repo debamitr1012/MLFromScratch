@@ -1,0 +1,9 @@
+Why use Random Forest?
+One of the benefits of using a random forest is that it is relatively robust to overfitting, meaning that it will still make good predictions even if you have a lot of data. This is because the individual decision trees in the forest are able to cancel out some of the noise in the data.
+Another benefit of using a random forest is that it is relatively easy to interpret. This is because each decision tree can be looked at individually and the interactions between them can be visualized using a graph called a “forest plot”.
+
+Application:
+Real-world applications where random forest could be useful include:
+Predicting the quality of wines
+Classifying galaxies
+Determining if someone is likely to develop diabetes in the future
