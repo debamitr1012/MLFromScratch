@@ -1,4 +1,4 @@
-# MLFromScratch
+# Machine Learning From Scratch
 
 ## 9 Best Machine Learning Models
 
